@@ -1,0 +1,11 @@
+{
+  "await": {
+    "prefix": "awa",
+    "body": "await ${0}",
+    "description": "user snippet"
+  },
+  "destructuring": {
+    "prefix": "dod",
+    "body": "const {${0}} = ${1}"
+  }
+}
